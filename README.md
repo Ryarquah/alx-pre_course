@@ -1,1 +1,2 @@
-my second readme
+My first readme
+Happy to be part of alx.
